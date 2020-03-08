@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="appicon">appIcon</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites_available">No favorites Available</string>
+    <string name="all_notes">All Notes</string>
+    <string name="no_notes_yet">No notes yet!</string>
+    <string name="save">Save</string>
+    <string name="body">Body</string>
+</resources>
